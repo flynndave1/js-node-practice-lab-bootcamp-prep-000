@@ -10,4 +10,4 @@ console.log("Height:");
 console.log(height);
 console.log(parseInt(height))
 console.log(parseInt(height) + 1)
-console.log("New Height: " & parseInt(height) + 1);
+console.log("New Height: " + parseInt(height) + 1);
