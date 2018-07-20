@@ -8,5 +8,5 @@ console.log(name);
 
 console.log("Height:");
 console.log(height);
-
+console.log(parseInt(height))
 console.log("New Height: " & parseInt(height) + 1);
